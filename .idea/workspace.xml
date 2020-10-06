@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6e3df96-eb7d-4d74-ab34-0a629d00813d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gfCeNiouDUEJ2XhwkrDb7YWlK1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/g_spring_configure_without_xml_by_javacode_/properties_config_" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Spring practice\Spring_Exercise\Spring_IOC\src" />
+      <recent name="G:\Spring practice\Spring_Exercise\Spring_IOC\src\spring_ioc_" />
+      <recent name="G:\Spring practice\Spring_Exercise\Spring_IOC" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Spring practice\Spring_Exercise\Spring_IOC\src\g_spring_configure_without_xml_by_javacode_\properties_config_" />
+      <recent name="G:\Spring practice\Spring_Exercise\Spring_IOC\src\g_spring_configure_without_xml_by_javacode_\bean_config_" />
+      <recent name="G:\Spring practice\Spring_Exercise\Spring_IOC\src\g_spring_configure_without_xml_by_javacode_" />
+      <recent name="G:\Spring practice\Spring_Exercise\Spring_IOC\src" />
+      <recent name="G:\Spring practice\Spring_Exercise\Spring_IOC\src\f_spring_java_anotation_autowired_\excercise" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainApplication (2)">
+    <configuration name="MainApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="g_spring_configure_without_xml_by_javacode_.bean_config_.MainApplication" />
+      <module name="Spring_IOC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="g_spring_configure_without_xml_by_javacode_.bean_config_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="g_spring_configure_without_xml_by_javacode_.properties_config_.MainApplication" />
+      <module name="Spring_IOC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="g_spring_configure_without_xml_by_javacode_.properties_config_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="f_spring_java_anotation_autowired_.excercise.MainApplication" />
+      <module name="Spring_IOC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="f_spring_java_anotation_autowired_.excercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="g_spring_configure_without_xml_by_javacode_.MainApplication" />
+      <module name="Spring_IOC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="g_spring_configure_without_xml_by_javacode_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="c_spring_injecting_literal_values_.MainApplication" />
+      <module name="Spring_IOC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="c_spring_injecting_literal_values_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b_spring_di_.MainApplication" />
+      <module name="Spring_IOC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="b_spring_di_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a_spring_ioc_.MainApplication" />
+      <module name="Spring_IOC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a_spring_ioc_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PropertiesWithAnotationMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="f_spring_java_anotation_autowired_.PropertiesWithAnotationMain" />
+      <module name="Spring_IOC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="f_spring_java_anotation_autowired_.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tocat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.37" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/Spring_IOC/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <file path="$PROJECT_DIR$">
+          <settings>
+            <option name="CONTEXT_PATH" value="/Spring_IOC" />
+          </settings>
+        </file>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Spring_IOC" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="1192" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainApplication" />
+      <item itemvalue="Application.PropertiesWithAnotationMain" />
+      <item itemvalue="Application.MainApplication (4)" />
+      <item itemvalue="Application.MainApplication (5)" />
+      <item itemvalue="Application.MainApplication (1)" />
+      <item itemvalue="Application.MainApplication (2)" />
+      <item itemvalue="Tomcat Server.Tocat" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApplication (2)" />
+        <item itemvalue="Application.MainApplication (1)" />
+        <item itemvalue="Application.MainApplication (5)" />
+        <item itemvalue="Application.MainApplication (4)" />
+        <item itemvalue="Application.PropertiesWithAnotationMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6e3df96-eb7d-4d74-ab34-0a629d00813d" name="Default Changelist" comment="" />
+      <created>1598496353466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598496353466</updated>
+      <workItem from="1598496358037" duration="5694000" />
+      <workItem from="1598522479376" duration="4546000" />
+      <workItem from="1598622156750" duration="8285000" />
+      <workItem from="1598637736865" duration="4013000" />
+      <workItem from="1598688242117" duration="1587000" />
+      <workItem from="1598706201343" duration="2524000" />
+      <workItem from="1598717963476" duration="4038000" />
+      <workItem from="1598805990929" duration="2012000" />
+      <workItem from="1598886635975" duration="655000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Project_Structure" timestamp="1598629643761">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1598629643761" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598629676613">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1598629676613" />
+    <state x="424" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598628988395">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="424" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1598628988395" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1598722479386">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1598722479386" />
+    <state x="412" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1598629673705">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1598629673705" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598622731088">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1598622731088" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1598807211818">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598807211818" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1598722508091">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598722508091" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1598722508090">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598722508090" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1598722508090">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598722508090" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1598722508090">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598722508090" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1598634819034">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598634819034" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1598634819034">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1598634819034" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1598634819034">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1598634819034" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1598634819034">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1598634819034" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1598498103921">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1598498103921" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1598886637256">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1598886637256" />
+    <state x="65" y="0" key="new project wizard" timestamp="1598886693571">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1598886693571" />
+  </component>
+</project>

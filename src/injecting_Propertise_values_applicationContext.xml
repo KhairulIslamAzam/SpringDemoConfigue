@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:context="http://www.springframework.org/schema/context"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context.xsd">
+
+	<!-- define the propertise file -->
+	<context:property-placeholder location="classpath:inject_values.properties"/>
+	<!-- define the dependency -->
+	<bean id="bpl"
+		class="c_spring_injecting_literal_values_.Bpl">
+	</bean>
+
+	<!-- construct the dependency injection in ref -->
+	<bean id="myCoach"
+		  class="d_spring_injecting_propetise_values_.CricketCoach">
+		<!-- setter method -->
+		<property name="league" ref="bpl"/>
+		<property name="team" value="${foo.team}"/>
+		<property name="coachName" value="${foo.coachName}"/>
+	</bean>
+</beans>
+
+
+
+
+

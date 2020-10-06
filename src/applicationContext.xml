@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:context="http://www.springframework.org/schema/context"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context.xsd">
+
+    <!-- Define your beans here -->
+    
+    <!-- define the dependency
+    <bean id="myFortuneService"
+    		class="com.luv2code.springdemo.HappyFortuneService">
+    	</bean>-->
+	<!--
+	<bean id="myLoggerConfig" class="com.azam.springdemo.MyLoggerConfig" init-method="initLogger">
+		<property name="rootLoggerLevel" value="FINE" />
+		<property name="printedLoggerLevel" value="FINE"/>
+	</bean>  -->
+
+	<bean id="myCoach"
+		class="a_spring_ioc_.CricketCoach">
+
+	</bean>
+
+	<!-- constructor bean
+	<bean id="myCoachOne"
+		  class="com.azam.springdemo.BaseballCoach">
+		// constructor dependency injection
+		<constructor-arg ref="myLeague"></constructor-arg>
+	</bean>  -->
+
+	<!-- set method bean
+	<bean id="myCoachOne"
+		  class="com.azam.springdemo.BaseballCoach">
+		<property name="bpl" ref="myLeague"/>
+	</bean> -->
+
+
+
+
+    <!--
+    <bean id="myCoach"
+        class="com.luv2code.springdemo.BaseballCoach">         
+    </bean>
+    -->
+   <!-- hard coded property
+	<bean id="employee"
+		  class="com.azam.springdemo.Employee">
+		<property name="name" value="azam"/>
+		<property name="email" value="azam@gmail.com"/>
+ 	</bean> -->
+
+	<!-- copy value from file -->
+
+</beans>
+
+
+
+
+
